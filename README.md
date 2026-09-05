@@ -2,129 +2,111 @@
 
 # 
 
-# \## AI-Powered Career Development \& Peer Skill Exchange Platform
+# \## About the Project
 
 # 
 
-# \### About the Project
+# SkillBridge is an AI-powered career development and peer skill exchange platform.
 
 # 
 
-# SkillBridge is a full-stack web application that helps users identify their skill gaps based on their target career role and provides personalized ways to improve those skills.
+# It helps users identify skill gaps based on their target career role and improve their skills through personalized learning roadmaps or peer-to-peer learning.
 
 # 
 
-# Users can choose between \*\*Personal Learning\*\* through a structured roadmap or \*\*Peer-to-Peer Learning\*\* by connecting with people who can teach the required skills.
+# \## Tech Stack
 
 # 
 
-# The platform also tracks learning progress and provides reassessment to measure improvement.
+# \### Frontend
+
+# \- React.js
+
+# \- JavaScript
+
+# \- HTML5
+
+# \- CSS3
+
+# \- React Router
+
+# \- Vite
 
 # 
 
-# \### Tech Stack
+# \### Backend
+
+# \- Java
+
+# \- Spring Boot
+
+# \- Spring Security
+
+# \- REST APIs
+
+# \- Spring Data JPA
+
+# \- Hibernate
 
 # 
 
-# \*\*Frontend\*\*
+# \### Database
+
+# \- MySQL
 
 # 
 
-# \* React.js
+# \### Tools
 
-# \* JavaScript
+# \- Git \& GitHub
 
-# \* HTML5
+# \- Postman
 
-# \* CSS3
+# \- Docker
 
-# \* React Router
+# \- GitHub Actions
 
-# \* Vite
-
-# 
-
-# \*\*Backend\*\*
+# \- Jenkins
 
 # 
 
-# \* Java
-
-# \* Spring Boot
-
-# \* Spring Security
-
-# \* REST APIs
-
-# \* Spring Data JPA
-
-# \* Hibernate
+# \## Implemented Features
 
 # 
 
-# \*\*Database\*\*
+# \- User Registration and Login
+
+# \- User Onboarding
+
+# \- Current Skill Selection
+
+# \- Target Career Role Selection
+
+# \- Skill Analysis and Skill Gap Analysis
+
+# \- Role-based Learning Roadmaps
+
+# \- Learning Modules and Assessments
+
+# \- Learning Progress Tracking
+
+# \- Skill Reassessment
+
+# \- Peer Discovery
+
+# \- Peer Profiles
+
+# \- Teaching Session Creation
+
+# \- Session Booking
+
+# \- Chat Module
+
+# \- User Profile and Teaching Sessions
 
 # 
 
-# \* MySQL
-
-# 
-
-# \*\*Tools\*\*
-
-# 
-
-# \* Git \& GitHub
-
-# \* Postman
-
-# \* Docker
-
-# \* GitHub Actions
-
-# \* Jenkins
-
-# 
-
-# \### Implemented Features
-
-# 
-
-# \* User Registration and Login
-
-# \* User Onboarding
-
-# \* Current Skill Selection
-
-# \* Target Career Role Selection
-
-# \* Skill Analysis
-
-# \* Skill Gap Analysis
-
-# \* Role-based Learning Roadmaps
-
-# \* Learning Modules with Topic Assessments
-
-# \* Learning Progress Tracking
-
-# \* Skill Reassessment
-
-# \* Peer Discovery based on Career Role and Skills
-
-# \* Peer Profiles
-
-# \* Teaching Session Creation
-
-# \* Session Booking
-
-# \* Chat Module
-
-# \* User Profile and My Teaching Sessions
-
-# 
-
-# \### Project Workflow
+# \## Project Workflow
 
 # 
 
@@ -132,85 +114,59 @@
 
 # Register / Login
 
-# &#x20;      ↓
+# &#x20;     ↓
 
 # Onboarding
 
-# &#x20;      ↓
+# &#x20;     ↓
 
 # Current Skills + Target Career Role
 
-# &#x20;      ↓
+# &#x20;     ↓
 
 # Skill Analysis
 
-# &#x20;      ↓
+# &#x20;     ↓
 
 # Skill Gap
 
-# &#x20;      ↓
+# &#x20;     ↓
 
 # Choose Learning Method
 
-# &#x20;      │
+# &#x20;     ↓
 
-# &#x20;      ├── Personal Learning
+# &#x20;┌─────────────────────┬─────────────────────┐
 
-# &#x20;      │       ↓
+# &#x20;│                     │                     │
 
-# &#x20;      │    Roadmap
+# Personal Learning   Peer-to-Peer Learning   │
 
-# &#x20;      │       ↓
+# &#x20;│                     │
 
-# &#x20;      │    Learning Modules
+# Roadmap             Find Peers
 
-# &#x20;      │       ↓
+# &#x20;│                     │
 
-# &#x20;      │    Assessment
+# Learning Modules    Peer Profile
 
-# &#x20;      │       ↓
+# &#x20;│                     │
 
-# &#x20;      │    Progress
+# Assessment          Book Session
 
-# &#x20;      │
+# &#x20;│                     │
 
-# &#x20;      └── Peer-to-Peer Learning
+# Progress            Chat
 
-# &#x20;              ↓
+# &#x20;│
 
-# &#x20;           Find Peers
+# &#x20;└───────────┬─────────┘
 
-# &#x20;              ↓
+# &#x20;            ↓
 
-# &#x20;         Peer Profile
+# &#x20;      Reassessment
 
-# &#x20;              ↓
+# &#x20;            ↓
 
-# &#x20;         Book Session
-
-# &#x20;              ↓
-
-# &#x20;             Chat
-
-# &#x20;              
-
-# &#x20;      ↓
-
-# &#x20; Reassessment
-
-# &#x20;      ↓
-
-# Updated Skill Level
-
-# ```
-
-# 
-
-# \### Goal
-
-# 
-
-# The goal of SkillBridge is to provide a single platform where users can \*\*identify skill gaps, learn through personalized roadmaps or peers, track their progress, and reassess their skills for continuous improvement.\*\*
-
-
+# &#x20;    Updated Skill Level
 
