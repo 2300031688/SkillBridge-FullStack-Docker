@@ -2,15 +2,25 @@
 
 # 
 
-# \## About the Project
+# \*\*AI-Powered Career Development \& Peer Skill Exchange Platform\*\*
 
 # 
 
-# SkillBridge is an AI-powered career development and peer skill exchange platform.
+# \## About
 
 # 
 
-# It helps users identify skill gaps based on their target career role and improve their skills through personalized learning roadmaps or peer-to-peer learning.
+# SkillBridge helps students identify their \*\*skill gaps\*\* and improve their skills through:
+
+# 
+
+# \* Personalized Learning Roadmaps
+
+# \* Peer-to-Peer Skill Exchange
+
+# \* Progress Tracking
+
+# \* Skill Reassessment
 
 # 
 
@@ -18,155 +28,63 @@
 
 # 
 
-# \### Frontend
+# \* \*\*Frontend:\*\* React.js, JavaScript, HTML, CSS
 
-# \- React.js
+# \* \*\*Backend:\*\* Java, Spring Boot, REST APIs
 
-# \- JavaScript
+# \* \*\*Database:\*\* MySQL
 
-# \- HTML5
+# \* \*\*Security:\*\* Spring Security
 
-# \- CSS3
-
-# \- React Router
-
-# \- Vite
+# \* \*\*Tools:\*\* Git, GitHub, Postman, Maven
 
 # 
 
-# \### Backend
-
-# \- Java
-
-# \- Spring Boot
-
-# \- Spring Security
-
-# \- REST APIs
-
-# \- Spring Data JPA
-
-# \- Hibernate
+# \## Features
 
 # 
 
-# \### Database
+# \* User Registration \& Login
 
-# \- MySQL
+# \* Current Skill Selection
 
-# 
+# \* Target Career Role Selection
 
-# \### Tools
+# \* Skill Analysis \& Skill Gap Identification
 
-# \- Git \& GitHub
+# \* Role-Based Learning Roadmaps
 
-# \- Postman
+# \* Topic-wise Learning Modules
 
-# \- Docker
+# \* Skill Assessments
 
-# \- GitHub Actions
+# \* Learning Progress Tracking
 
-# \- Jenkins
+# \* Peer Skill Matching
 
-# 
+# \* Teaching Session Creation
 
-# \## Implemented Features
-
-# 
-
-# \- User Registration and Login
-
-# \- User Onboarding
-
-# \- Current Skill Selection
-
-# \- Target Career Role Selection
-
-# \- Skill Analysis and Skill Gap Analysis
-
-# \- Role-based Learning Roadmaps
-
-# \- Learning Modules and Assessments
-
-# \- Learning Progress Tracking
-
-# \- Skill Reassessment
-
-# \- Peer Discovery
-
-# \- Peer Profiles
-
-# \- Teaching Session Creation
-
-# \- Session Booking
-
-# \- Chat Module
-
-# \- User Profile and Teaching Sessions
+# \* Peer Profile \& Session Booking
 
 # 
 
-# \## Project Workflow
+# \## Workflow
 
 # 
 
-# ```text
+# \*\*Register → Select Skills \& Career Role → Skill Analysis → Skill Gap →\*\*
 
-# Register / Login
+# 
 
-# &#x20;     ↓
+# \*\*Learn Yourself OR Learn from Peers → Practice \& Assessment → Track Progress → Reassessment\*\*
 
-# Onboarding
+# 
 
-# &#x20;     ↓
+# \## Project Goal
 
-# Current Skills + Target Career Role
+# 
 
-# &#x20;     ↓
+# To provide students with a platform that not only identifies their skill gaps but also helps them \*\*learn, practice, connect with peers, track progress, and improve continuously.\*\*
 
-# Skill Analysis
 
-# &#x20;     ↓
-
-# Skill Gap
-
-# &#x20;     ↓
-
-# Choose Learning Method
-
-# &#x20;     ↓
-
-# &#x20;┌─────────────────────┬─────────────────────┐
-
-# &#x20;│                     │                     │
-
-# Personal Learning   Peer-to-Peer Learning   │
-
-# &#x20;│                     │
-
-# Roadmap             Find Peers
-
-# &#x20;│                     │
-
-# Learning Modules    Peer Profile
-
-# &#x20;│                     │
-
-# Assessment          Book Session
-
-# &#x20;│                     │
-
-# Progress            Chat
-
-# &#x20;│
-
-# &#x20;└───────────┬─────────┘
-
-# &#x20;            ↓
-
-# &#x20;      Reassessment
-
-# &#x20;            ↓
-
-# &#x20;    Updated Skill Level
 
